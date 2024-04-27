@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "any": "Dog",
+      "questions": [
+        {
+          "question": "Does the animal have fur?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Does the animal have paws?",
+          "answers": ["yes"]
+        },
+        {
+          "question": "Can the animal see between the colors yellow to blue?",
+          "answers": ["yes"]
+        },
+        {
+          "question": "Does the animal start off as being less than 18 inches tall?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is the animal possibly used as a guard?",
+          "answers": ["yes"]
+        },
+        {
+          "question": "Does your animal sometimes get fleas?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Can the animal run faster than an adult human?",
+          "answers": ["yes", "probably"]
+        }
+      ],
+      "author": null
+    },
+    {
+      "any": "Fire",
+      "questions": [
+        {
+          "question": "Is this object natural?",
+          "answers": ["yes"]
+        },
+        {
+          "question": "Does this object dissipate when meeting with liquid?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is this object harmful to forests?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is the object seen as red or orange?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is the object used in cooking?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Does the object emit smoke?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is the object hot?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is the object used for making campfires?",
+          "answers": ["yes", "probably"]
+        }
+      ],
+      "author": null
+    },
+    {
+      "any": "JavaScript",
+      "questions": [
+        {
+          "question": "Is this pronoun a programming language?",
+          "answers": ["yes"]
+        },
+        {
+          "question": "Is this language used for websites?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is this language generally compiled?",
+          "answers": ["yes"]
+        },
+        {
+          "question": "Does this language borrow similar syntax and/or methods from Ruby?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is this language used for Node.js modules?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is this language introduced inn 1995?",
+          "answers": ["yes"]
+        },
+        {
+          "question": "Is the language famous/popular?",
+          "answers": ["yes", "probably"]
+        },
+        {
+          "question": "Is the language considered to be harmful/unsafe?",
+          "answers": ["no", "probably not", "maybe]
+        }
+      ],
+      "author": "Brendan Eich"
+    }
+  ]
+}
