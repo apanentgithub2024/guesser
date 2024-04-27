@@ -105,7 +105,7 @@
         },
         {
           "question": "Is the language considered to be harmful/unsafe?",
-          "answers": ["no", "probably not", "maybe]
+          "answers": ["no", "probably not", "maybe"]
         }
       ],
       "author": "Brendan Eich"
